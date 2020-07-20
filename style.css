@@ -1,0 +1,37 @@
+.itemSetting{
+    margin-top: 10px;
+    text-align: justify;
+    font-size: 2em;
+    color: #fff;
+
+}
+button{
+    margin-left: 5px;
+    font-size: 20px;
+    width: 120px;
+    height: 40px;
+
+}
+.main{
+    text-align: center;
+    box-shadow: gray 2px 2px 5px 4px;
+    width: 800px;
+    margin: 0 auto;
+    height: auto;
+    min-height: 800px;
+    background-color: #0e89ee75;
+ 
+}
+#toDoItem{
+    font-size: 2em;
+}
+p{
+    font-size: 3em ;
+    font-weight: bold;
+    color: #0084ff;
+    padding-top: 20px;
+}
+body{
+    background-color: #000;
+    
+}
